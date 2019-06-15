@@ -1,0 +1,131 @@
+.logoa{
+  block-size: 18vh;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
+.container-dark{
+    position: relative;
+    display: inline-block;
+    margin-top: -80px;
+}
+.path{
+    margin-top: -9px;
+    margin-right: 4px;
+    color: #b14526;
+}
+.button {
+  background-color: bisque;
+  height: 46px;
+  width: 130px;
+  border-radius: 30px;
+  border: 2px solid inherit;
+  position: relative;
+  margin-left: 30px;
+}
+.backgrImg{
+    position: absolute;
+    max-width: 100%;
+    height: 200%;
+    opacity: 0.8;
+}
+.menu{
+  font-family: "Arm Helvetica", sans-serif;
+  color: rgba(133, 0, 0, 0.96);
+  margin-top: 3px;
+  font-size: 25px;
+}
+.btnSrch{
+  color: #30264b;
+  margin-left: -40px;
+}
+.search{
+  height: 42px;
+  width: 60vh;
+  border-radius: 50px;
+  margin-left: 42vh;
+  font-size: 15px;
+  padding-left: 10px;
+  margin-bottom: 13px;
+}
+.line{
+  display: inline-block;
+  background-color: #382e55;
+  width: 220vh;
+  height: 80px;
+  position: relative;
+  margin-left: -20px;
+}
+.formGroup{
+  margin-top: 5px;
+}
+.basketIcon{
+    height: 42px;
+    width: 42px;
+    margin-top: 5px;
+    margin-left: 100px;
+    border-radius: 24px;
+}
+.basket{
+    color: #a80000;
+}
+.cart-notification{
+    color: whitesmoke;
+    margin-top: -5px;
+    position: absolute;
+    font-size: 13px;
+    margin-left: 1px;
+}
+.notif-back{
+    width: 20px;
+    height: 19px;
+    border-radius: 50px;
+    background-color: rgba(198, 0, 0, 0.84);
+    margin-top: -34px;
+    margin-left: 20px;
+}
+.Category-CategoryItem-1{
+    color: #5b0000;
+    background-color: rgba(255, 228, 196, 0.95);
+    opacity: 0.9;
+    border-radius: 5px;
+}
+.Content-ContentItem-5{
+    background-color: rgba(255, 228, 196, 0.95);
+    opacity: 0.9;
+    border-radius: 5px;
+}
+.logIn{
+    color: #c60000;
+}
+.dropdown-content{
+    position: absolute;
+    display: none;
+    background-color: bisque;
+    z-index: 1;
+    width: 200px;
+    margin-left: -10px;
+    border-radius: 4px;
+}
+.ul1{
+     margin-top: 10px;
+ }
+.dropdown-content ul{
+    padding: 0 27px;
+    text-align: left;
+    color: #5b0000;
+    margin-bottom: 5px;
+}
+.button:hover .dropdown-content {
+    display: block;
+}
+.cotegLine{
+    width: 150px;
+    height: 1px;
+    background-color: rgba(223, 160, 140, 0.91);
+    text-align: center;
+    margin: 10px 10px 10px 22px;
+    padding: 0;
+    top: 0;
+    opacity: 0.7;
+}
